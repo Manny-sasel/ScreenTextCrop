@@ -1,0 +1,19 @@
+# Live Screen Text Extractor - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Image Handling
+Pillow>=8.0.0
+
+# OCR Engine Interface
+pytesseract>=0.3.8
+
+# GUI Framework (usually comes with Python)
+# tkinter - included with most Python installations
+
+# Optional: Enhanced image processing
+# scikit-image>=0.18.0  # Uncomment if you want additional image processing capabilities
+# matplotlib>=3.3.0     # Uncomment if you want to add plotting capabilities
