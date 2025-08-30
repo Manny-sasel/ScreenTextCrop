@@ -260,6 +260,6 @@ If you find this project helpful, please:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Manoj kumar**
 
 *Extract text from anywhere on your screen with ease!*
